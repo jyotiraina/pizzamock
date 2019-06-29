@@ -8,5 +8,6 @@
 	
   }
   body{
-	background-image: url("pizza.jpeg");
+  margin-top: 40px;
+  background-image: url("pizza.jpeg");
   }

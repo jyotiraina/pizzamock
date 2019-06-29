@@ -11,7 +11,7 @@
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
 </head>
 <body>
-<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" style="min-height: 10px">
+<nav class="navbar navbar-expand-sm bg-dark navbar-dark fixed-top" style="min-height: 70px">
   <a class="navbar-brand" style="color:white;"> A&J Pizzas</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
     <span class="navbar-toggler-icon"></span>
@@ -22,7 +22,7 @@
         <a class="nav-link" href="order.php">Order</a>
       </li>
 	  <li class="nav-item">
-        <a class="nav-link" href="#">About</a>
+        <a class="nav-link" href="home.php">About</a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Register/Login</a>
