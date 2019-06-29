@@ -1,0 +1,17 @@
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
+  .navbar .navbar-brand {
+	font-family: Sofia;
+	font-size: 20px;
+	
+  }
+  body{
+	background-image: url("pizza.jpeg");
+	background-repeat: repeat;
+    background-attachment: fixed;
+	height: 580px;
+	background-position: center;
+	background-size: cover; 
+  }
