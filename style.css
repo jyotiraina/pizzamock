@@ -9,9 +9,4 @@
   }
   body{
 	background-image: url("pizza.jpeg");
-	background-repeat: repeat;
-    background-attachment: fixed;
-	height: 580px;
-	background-position: center;
-	background-size: cover; 
   }
